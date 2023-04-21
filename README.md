@@ -28,6 +28,13 @@ I am a Full Stack Developer. ⚡
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Gatsby" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sabershakeri&theme=highcontrast)](https://git.io/streak-stats)
+
+
+
 
 
 <!--
